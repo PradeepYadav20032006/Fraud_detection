@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & Temporary Folders
+_temp_cache/
+scratch/
+.ipynb_checkpoints/
+
+# Virtual Environments
+fraud_venv/
+.venv/
+venv/
+env/
+ENV/
+
+# Large Datasets and CSVs (>100MB)
+*.csv
+!sample_submission.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
